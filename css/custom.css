@@ -19,13 +19,15 @@ body {
 
     }
         .page-title {
-
+            display: inline-block;
+            width: 100%;
         }
         .bottom-links {
-
+            display: inline-block;
+            width: 100%;
         }
         .bottom-links > .link {
-
+            color: #fff;
             }
             .bottom-links > .text {
 
